@@ -1,0 +1,9 @@
+class TweetController < ApplicationController
+  def home
+  end
+
+  def help
+  end
+end
+
+
